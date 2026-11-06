@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "package_name": "dev.hermes.pocket",
-  "version_code": 14,
-  "version_name": "0.9.5",
-  "apk_url": "https://github.com/YoseHel/hermes-pocket-updates/releases/download/v0.9.5/Hermes-Pocket-0.9.5.apk",
-  "sha256": "db1cc35891370a3d1ad37ff3f45f04a210e74c15a71b73b996168068df3a1502",
-  "size_bytes": 6388094
+  "version_code": 15,
+  "version_name": "0.9.6",
+  "apk_url": "https://github.com/YoseHel/hermes-pocket-updates/releases/download/v0.9.6/Hermes-Pocket-0.9.6.apk",
+  "sha256": "34bf323ddff4006a45fc998c8e4cddf46ef586fd0aa23e6385b86e30ffee201f",
+  "size_bytes": 6392190
 }
